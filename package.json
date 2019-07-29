@@ -1,0 +1,24 @@
+{
+  "name": "StaticDataApp1",
+  "version": "1.0.0",
+  "description": "StaticDataApp1 - K8 service-to-service communication",
+  "main": "app.js",
+  "private": true,
+  "scripts": {
+    "start": "node ./app.js"
+  },
+  "keywords": [
+    "base",
+    "project",
+    "node",
+    "express",
+    "structure"
+  ],
+  "author": "Bashkim Kasa",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "express": "^4.13.4",
+    "request": "^2.72.0"
+  }
+}
