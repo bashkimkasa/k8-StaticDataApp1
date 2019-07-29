@@ -1,4 +1,4 @@
-# StaticDataApp
+# StaticDataApp1
 
 This is a sample nodejs app to show K8 service-to-service communication within the cluster
 
